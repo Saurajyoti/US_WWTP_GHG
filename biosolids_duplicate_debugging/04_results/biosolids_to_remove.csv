@@ -1,0 +1,227 @@
+Facility Name,NPDES ID,City,State,EPA Region,Reporting Year,Certified Date,Reporting Obligation(s),Amount of Biosolids Generated,Violation Count,Violation Type(s),Management Practice Type(s),Amount of Biosolids Managed - Land Applied,Amount of Biosolids Managed - Surface Disposal,Amount of Biosolids Managed - Incinerated,Amount of Biosolids Managed - Other Management Practice,Pathogen Class(es),sic_permit,check_sewer_permits
+AUSTIN COUNTY WSC  PLANT 3,TX0125709,BELLVILLE,TX,6,2022,2022-09-07T10:35:30.119-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[4941, 4941]",other_system
+LAKE PFLUGERVILLE WWTF,TX0132721,PFLUGERVILLE,TX,6,2022,2022-10-07T13:37:35.841-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Class A,"[1541, 4941, 4941]",other_system
+PURTIS CREEK STATE PARK WWTP,TX0082856,AUSTIN,TX,6,2022,2022-08-01T11:19:59.102-0500,Other,0.0005,0,,Other Management Practice,,,,0.0005,Not Applicable,"[7033, 7033]",other_system
+CHISOS BASIN  WWTP,TX0094684,BIG BEND NATIONAL PARK,TX,6,2022,2022-09-14T07:22:25.560-0500,Other,0.375,0,,Other Management Practice,,,,0.375,Not Applicable,"[7999, 7999]",other_system
+LAUGHLIN AFB WWTP BLDG 1004,TX0022608,LAUGHLIN AIR FORCE BASE,TX,6,2022,2022-08-31T07:59:34.879-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[9711, 1542, 9711, 9711, 1542, 4581, 9711, 9711, 9711, 9711, 1623]",other_system
+TOWN OF MUSTANG MHP WWTF,TX0125199,CORSICANA,TX,6,2022,2022-09-23T22:38:38.197-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[6515, 6515]",other_system
+HARMONY ISD WWTP,TX0097233,BIG SANDY,TX,6,2022,2022-09-29T18:29:22.085-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+MARTIN DIES JR WWTP,TX0068276,AUSTIN,TX,6,2022,2022-09-07T11:52:22.837-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[7033, 7033]",other_system
+MEADOWS WWTP,TX0021270,HOUSTON,TX,6,2022,2022-09-30T21:07:08.883-0500,Other,48.77,0,,Land Application,48.77,,,,Class B,"[4941, 4941]",other_system
+SCURRY ROSSER ISD WWTP,TX0126128,SCURRY,TX,6,2022,2022-09-01T11:10:58.511-0500,Other,3.03,0,,Other Management Practice,,,,5.16,Not Applicable,"[8211, 8211]",other_system
+HOOKS JUNIOR HIGH WWTF,TX0118079,HOOKS,TX,6,2022,2022-08-29T08:58:09.055-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+TRINITY INDUSTRIES PLANT 19 WWTF,TX0111465,DALKS,TX,6,2022,2022-09-16T13:38:07.335-0500,Other,0.159,0,,Other Management Practice,,,,0.159,Not Applicable,"[3743, 3743]",other_system
+WESTERN PINES MHP WWTF,TX0082830,SUGAR LAND,TX,6,2022,2022-09-13T15:24:08.745-0500,Other,17.9,0,,Other Management Practice,,,,17.9,Not Applicable,"[6515, 6515]",other_system
+COWTOWN RV PARK WWTF,TX0117919,ALEDO,TX,6,2022,2022-09-20T13:55:20.537-0500,Other,3.82,0,,Other Management Practice,,,,3.82,Class A,[7033],other_system
+PARADISE ISD WWTP,TX0103446,PARADISE,TX,6,2022,2022-09-08T08:17:23.593-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,80.0,0,,Other Management Practice,,,,80.0,Not Applicable,"[8211, 8211]",other_system
+CORNERSTONE MHP WWTP,TX0129381,TOMBALL,TX,6,2022,2022-09-13T15:35:56.747-0500,Other,1.51,0,,Other Management Practice,,,,1.51,Not Applicable,"[6515, 6515]",other_system
+JESUS AWAKENING MOVEMENT FOR AMERICA WWTP,TX0134937,LINDALE,TX,6,2022,2022-09-08T09:34:32.712-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Class A,[8661],other_system
+OAK HAVEN RECOVERY CENTER WWTP,TX0068004,LONGVIEW,TX,6,2022,2022-08-31T15:35:30.132-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8051, 8051]",other_system
+SUN ACRES MHP WWTF,TX0117242,KILGORE,TX,6,2022,2022-09-16T10:40:13.914-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.34,0,,Other Management Practice,,,,0.16,Not Applicable,[6515],other_system
+BIRKHEAD WELL WWTP,TX0119351,ROCKDALE,TX,6,2022,2022-09-01T10:00:53.274-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,[4941],other_system
+MILANO WELL WWTP,TX0126497,ROCKDALE,TX,6,2022,2022-09-01T10:04:48.151-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,[4941],other_system
+ANTHIS WELL WTP,TX0126730,ROCKDALE,TX,6,2022,2022-09-01T10:07:39.716-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,"[4941, 4941]",other_system
+BLUE IRON REMOVAL PLANT WTP,TX0132764,BASTROP,TX,6,2022,2022-09-01T10:34:47.209-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[4941, 4941]",other_system
+MCDADE IRON REMOVAL WTP,TX0127132,BASTROP,TX,6,2022,2022-09-01T10:37:59.337-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+C IRON REMOVAL WTP,TX0119954,BASTROP,TX,6,2022,2022-09-01T10:39:24.099-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+CAMP SWIFT IRON REMOVAL WTP,TX0119946,BASTROP,TX,6,2022,2022-09-01T10:41:25.590-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+UNION HILL ISD WWTP,TX0118451,GILMER,TX,6,2022,2022-09-16T09:11:51.532-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211, 8211]",other_system
+SHELBYVILLE ISD WWTF,TX0102261,SHELBYVILLE,TX,6,2022,2022-09-02T11:51:21.350-0500,Other,0.68,0,,Other Management Practice,,,,0.68,Class B,"[8211, 8211]",other_system
+METHODIST HOME BOY'S RANCH,TX0126217,WACO,TX,6,2022,2022-09-02T12:06:31.801-0500,Other,14.4,0,,Other Management Practice,,,,14.4,Not Applicable,[8361],other_system
+BRAZOS ISD WWTP,TX0068713,WALLIS,TX,6,2022,2022-09-02T13:38:08.227-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+CAYUGA ISD ,TX0111520,CAYUGA,TX,6,2022,2022-09-08T10:52:43.087-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+SLIDELL ISD WWTP,TX0124494,SLIDELL,TX,6,2022,2022-09-02T13:50:33.940-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+CITY OF ARCHER CITY WTP,TX0127019,ARCHER CITY,TX,6,2022,2022-09-04T09:53:56.099-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+TPWD LAKE LIVINGSTON STATE PARK,TX0062961,AUSTIN,TX,6,2022,2022-09-04T11:40:38.428-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[7033, 7033]",other_system
+TIDEHAVEN JHS-HS WWTP,TX0136280,EL MATON,TX,6,2022,2022-09-04T20:11:48.841-0500,Other,0.281,0,,Other Management Practice,,,,0.281,Not Applicable,[8211],other_system
+STONETOWN BENBROOK WWTP,TX0093092,GLENDALE,CO,6,2022,2022-09-06T15:22:45.050-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,15.06,0,,Other Management Practice,,,,15.06,Class B,[6515],other_system
+WODEN ISD WWTP,TX0134449,WODEN,TX,6,2022,2022-09-06T09:38:34.025-0500,Other,1.0425,0,,Other Management Practice,,,,1.0425,Not Applicable,"[8211, 8211]",other_system
+RIVERCREST ISD WWTF,TX0116556,BOGATA,TX,6,2022,2022-09-06T14:25:56.694-0500,Other,0.681,0,,Other Management Practice,,,,0.681,Not Applicable,"[8211, 8211]",other_system
+THE ESTATES WWTP,TX0135020,OAK BROOK,IL,6,2022,2022-09-06T16:56:33.876-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,2.27,0,,Other Management Practice,,,,2.27,Class B,[6515],other_system
+COLLIN COUNTY ADVENTURE CAMP WWTF,TX0126241,IRVING,TX,6,2022,2022-09-07T10:08:14.825-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7032],other_system
+PETRO STOPPING CENTER 340,TX0129348,WESTLAKE,OH,6,2022,2022-10-07T08:29:17.535-0500,Other,12.76,0,,Other Management Practice,,,,43.0,Not Applicable,[5541],other_system
+EASTLAND COUNTY WSD WTP,TX0113883,RANGER,TX,6,2022,2022-09-09T12:33:19.569-0500,Other,114.84,0,,Other Management Practice,,,,114.84,Not Applicable,[4941],other_system
+BOVAY SCOUT RANCH WWTP,TX0119083,HOUSTON,TX,6,2022,2022-09-09T11:41:51.080-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7032],other_system
+ROCKY POINT ESTATES MHP WWTP,TX0123552,GLENDALE,CO,6,2022,2022-09-09T11:44:02.927-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,11.86,0,,Other Management Practice,,,,11.86,Class A,[6515],other_system
+LAKE TAWAKONI STATE PARK WWTF,TX0129780,POINT,TX,6,2022,2022-09-12T09:05:10.685-0500,Other,1.39,0,,Other Management Practice,,,,1.39,Not Applicable,"[7999, 7999]",other_system
+BISHOP CISD WWTP,TX0069884,BISHOP,TX,6,2022,2022-09-10T12:33:11.988-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,"[8211, 8211]",other_system
+HIGH ISLAND ISD WWTF,TX0134945,HIGH ISLAND,TX,6,2022,2022-09-20T15:33:43.500-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+CAMP MAXEY WWTF,TX0101214,AUSTIN,TX,6,2022,2022-09-27T10:26:07.920-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[9711, 7032, 9711, 7032]",other_system
+GROESBECK WTP,TX0117587,GROESBECK,TX,6,2022,2022-09-20T08:52:44.063-0500,Other,52.15,0,,Other Management Practice,,,,52.15,Not Applicable,[4941],other_system
+DRIL-QUIP WWTP,TX0128287,HOUSTON,TX,6,2022,2022-09-13T15:34:39.485-0500,Other,1.51,0,,Other Management Practice,,,,1.51,Not Applicable,"[3533, 3533, 3533, 3533]",other_system
+CAMP JOHN MARC WWTF,TX0106224,DALLAS,TX,6,2022,2022-09-13T14:59:45.821-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7032],other_system
+WOLF CREEK PARK WWTP,TX0024775,LIVINGSTON,TX,6,2022,2022-09-15T14:19:43.662-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[7033, 7033]",other_system
+LEVERETT'S CHAPEL ISD WWTP,TX0030686,LAIRD HILL,TX,6,2022,2022-09-13T16:02:59.871-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+VALLOUREC STAR,TX0088455,CHANNELVIEW,TX,6,2022,2022-09-29T12:43:52.102-0500,Other,0.95,0,,Other Management Practice,,,,0.95,Not Applicable,"[3498, 3498, 3498, 3498, 3498]",other_system
+SHELDON INSPECTION SOUTH WWTP,TX0130036,HOUSTON,TX,6,2022,2022-09-15T14:31:52.501-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,[1389],other_system
+UNION GROVE ISD WWTP,TX0102997,GLADEWATER,TX,6,2022,2022-09-16T08:23:06.493-0500,Other,1.1,0,,Other Management Practice,,,,1.1,Not Applicable,"[8211, 8211]",other_system
+TUBOSCOPE SHELDON ROAD NORTH WWTP,TX0087491,HOUSTON,TX,6,2022,2022-09-15T14:30:05.975-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.106,0,,Other Management Practice,,,,0.106,Class B,[1389],other_system
+SHADY OAKS WWTP,TX0132039,RICHMOND,VA,6,2022,2022-09-28T11:50:33.804-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,14.0,0,,Surface Disposal,,14.0,,,Class A,[6515],other_system
+HOLY TRINITY EPISCOPAL SCHOOL WWTP,TX0125326,HOUSTON,TX,6,2022,2022-09-15T15:48:29.197-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,[8211],other_system
+DALLAS COUNTY PARK CITIES MUD WWTP,TX0128686,DALLAS,TX,6,2022,2022-09-21T14:08:11.828-0500,Other,1686.0,0,,Other Management Practice,,,,5761.0,Not Applicable,"[4941, 4941]",other_system
+GONZALES COUNTY WSC 794 WELL SITE,TX0138215,GONZALES,TX,6,2022,2022-09-16T09:27:17.981-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+FOREST HILLS WWTP,TX0031283,JASPER,TX,6,2022,2022-09-16T08:51:51.681-0500,Other,1.8,0,,Other Management Practice,,,,1.8,Class B,"[4941, 4941]",other_system
+KNOX LEE POWER PLANT,TX0000540,LONGVIEW,TX,6,2022,2022-09-20T13:16:04.374-0500,Other,0.75,0,,Other Management Practice,,,,0.75,Not Applicable,"[4911, 4911, 4911, 4911, 4911, 4911, 4911, 4911]",other_system
+HENRY W. PIRKEY POWER PLANT,TX0087726,DALLAS,TX,6,2022,2022-09-16T10:20:26.745-0500,Other,2.25,0,,Other Management Practice,,,,2.25,Not Applicable,"[4911, 4911, 4911, 4911, 4911, 4911, 4911, 4911]",other_system
+NATIONAL COIL WWTF,TX0117820,LONGVIEW,TX,6,2022,2022-09-19T10:58:57.189-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.32,0,,Other Management Practice,,,,0.32,Not Applicable,[5075],other_system
+CARLISLE ISD WWTP,TX0124371,PRICE,TX,6,2022,2022-10-11T16:00:53.519-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+IS ZEN CENTER WWTF,TX0126306,MAGNOLIA,TX,6,2022,2022-09-18T06:10:07.339-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7041],other_system
+BROOKELAND ISD WWTP,TX0099082,BROOKLAND,TX,6,2022,2022-09-19T07:52:44.969-0500,Other,0.7,0,,Other Management Practice,,,,0.7,Class B,"[8211, 8211]",other_system
+DALE PUMP STATION,TX0117170,LOCKHART,TX,6,2022,2022-09-19T09:10:39.443-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+BROWNSBORO WTP,TX0117188,LOCKHART,TX,6,2022,2022-09-19T09:14:32.270-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+DALE WELL 2A WTF,TX0134481,LOCKHART,TX,6,2022,2022-09-19T09:16:21.947-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+LIVE OAK COUNTY SAFETY REST AREA NORTHBOND WWTF,TX0129305,AUSTIN,TX,6,2022,2022-09-19T10:28:31.068-0500,Other,2.0,0,,Other Management Practice,,,,2.0,Not Applicable,[7033],other_system
+LIVE OAK COUNTY SAFETY REST AREA WWTF,TX0129321,AUSTIN,TX,6,2022,2022-09-19T12:02:20.433-0500,Other,2.0,0,,Other Management Practice,,,,2.0,Not Applicable,"[7299, 7299]",other_system
+CAMP SUMMIT,TX0122386,DALLAS,TX,6,2022,2022-09-19T15:49:03.499-0500,Other,0.24,0,,Other Management Practice,,,,0.24,Not Applicable,[7011],other_system
+COUNTRY LIVING MHP WWTP,TX0100188,MARSHALL,TX,6,2022,2022-09-20T23:35:30.109-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.26,0,,Other Management Practice,,,,0.26,Not Applicable,[6515],other_system
+COASTAL BEND DETENTION FACILITY WWTF,TX0129607,SAN ANTONIO,TX,6,2022,2022-09-19T15:25:19.943-0500,Other,5.24,0,,Other Management Practice,,,,5.24,Class B,"[1522, 8744, 8744]",other_system
+LILLIAN ELEMENTARY SCHOOL WWTF,TX0119229,ALVARADO,TX,6,2022,2022-09-19T15:59:41.858-0500,Other,2.0,0,,Other Management Practice,,,,2.0,Not Applicable,"[8211, 8211]",other_system
+KOPPERL ISD WWTP,TX0116661,KOPPERL,TX,6,2022,2022-09-19T16:20:12.414-0500,Other,1.6,0,,Other Management Practice,,,,1.6,Not Applicable,"[8211, 8211]",other_system
+LAKEVIEW CAMP WWTP,TX0118877,WAXAHACHIE,TX,6,2022,2022-09-19T16:34:51.979-0500,Other,4.3,0,,Other Management Practice,,,,4.258,Not Applicable,[7033],other_system
+LOUIS VUITTON RANCHO 54,TX0138061,SAN DIMAS,CA,6,2022,2022-09-19T16:44:50.705-0500,Other,1.14,0,,Other Management Practice,,,,1.14,Not Applicable,[3171],other_system
+UFP-NEW WAVERLY WWTP,TX0028169,GRAND RAPIDS,MI,6,2022,2022-09-28T09:05:32.902-0500,Other,0.49,0,,Land Application,0.49,,,,Class B,"[2491, 2493, 2491, 2441, 2421, 2441, 2436, 2421, 2436, 2491, 2436, 2436, 2436]",other_system
+CITY OF GOLDTHWAITE WTP,TX0126667,GOLDTHWAITE,TX,6,2022,2022-09-20T10:19:27.313-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[4941, 4941]",other_system
+CONVENIENCE RV PARK WWTP,TX0118281,WILLIS,TX,6,2022,2022-09-20T12:37:20.372-0500,Other,1.13183941,0,,Other Management Practice,,,,1.13183941,Not Applicable,[7033],other_system
+DECATUR WTP,TX0136204,DECATUR,TX,6,2022,2022-09-21T13:28:18.651-0500,Other,2.2,0,,Other Management Practice,,,,2.21,Not Applicable,"[4941, 4941]",other_system
+CANUTILLO MIDDLE SCHOOL WWTP,TX0137146,CANUTILLO,TX,6,2022,2022-09-20T16:59:36.773-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+SCRAP YARD SPORTS WWTP,TX0135356,CONROE,TX,6,2022,2022-09-21T10:36:33.197-0500,Other,2.27,0,,Other Management Practice,,,,2.27,Not Applicable,[7997],other_system
+HIGH POINT ELEMENTARY WWTF,TX0128333,NAVASOTA,TX,6,2022,2022-10-28T11:25:05.728-0500,Other,0.26,0,,Other Management Practice,,,,0.26,Not Applicable,"[8211, 8211]",other_system
+RED WARE ELEMENTARY WWTP,TX0102555,CALLISBURG,TX,6,2022,2022-09-22T08:47:45.328-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+MCDONALD OBSERVATORY LOWER WWTF,TX0076422,AUSTIN,TX,6,2022,2022-09-27T14:00:57.925-0500,Other,0.962,0,,Other Management Practice,,,,0.962,Not Applicable,"[8221, 8221]",other_system
+CEDRIC SMITH ELEMENTARY SCHOOL WWTP,TX0119598,MAGNOLIA,TX,6,2022,2022-10-03T14:03:39.394-0500,Other,5.29,0,,Other Management Practice,,,,5.29,Class B,"[8211, 8211]",other_system
+PORT ISABEL DETENTION CTR WWTF,TX0056821,LOS FRESNOS,TX,6,2022,2022-09-22T13:39:02.698-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,30.0,0,,Other Management Practice,,,,30.0,Class B,"[9223, 9223]",other_system
+SUGAR PINES  MHC WWTF,TX0117277,PASADENA,CA,6,2022,2022-09-22T14:03:26.769-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,26.07,0,,Other Management Practice,,,,26.07,Not Applicable,[6515],other_system
+WILLOW MANOR MHP WWTP,TX0118001,COST MESA,CA,6,2022,2022-09-26T11:29:13.183-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,3.02,0,,Other Management Practice,,,,3.02,Not Applicable,"[6515, 6515, 6515]",other_system
+US RV PARK WWTP,TX0132225,HOUSTON,TX,6,2022,2022-09-26T11:32:52.038-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,2.27,0,,Other Management Practice,,,,2.27,Not Applicable,[7033],other_system
+HALLIBURTON GALVESTON PELICAN ISLAND WWTP,TX0119482,HOUSTON,TX,6,2022,2022-09-28T16:15:03.285-0500,Other,0.1,0,,Other Management Practice,,,,0.1,Class B,[1389],other_system
+ATASCOCITA VILLAGE MHP WWTP,TX0020320,HUMBLE,TX,6,2022,2022-09-23T09:21:18.094-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,12.85,0,,Other Management Practice,,,,12.85,Class B,[6515],other_system
+GE HYDRIL WWTP,TX0071251,HOUSTON,TX,6,2022,2022-09-23T10:25:07.682-0500,Other,30.26,0,,Other Management Practice,,,,30.26,Not Applicable,[3533],other_system
+DYNAMIC PRODUCTS WWTP,TX0072524,HOUSTON,TX,6,2022,2022-09-23T13:26:55.430-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Class B,"[3498, 3498, 3494]",other_system
+SKY RANCHES WETLANDS WWTP,TX0124681,VAN,TX,6,2022,2022-09-26T13:04:47.515-0500,Other,20.2,0,,Other Management Practice,,,,19.8,Not Applicable,[7032],other_system
+COLLIN PARK MARINA WWTP,TX0057959,WYLIE,TX,6,2022,2022-09-24T10:25:53.359-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7033],other_system
+STEPHEN F AUSTIN HISTORICAL PARK ,TX0032549,AUSTIN,TX,6,2022,2022-09-30T10:23:09.182-0500,Other,1.47631227,0,,Land Application,1.47631227,,,,Class B,"[7033, 7033]",other_system
+CAMP FOR ALL FOUNDATION WWTP,TX0114413,HOUSTON,TX,6,2022,2022-09-25T09:45:06.997-0500,Other,1.476,0,,Other Management Practice,,,,1.476,Class B,[7032],other_system
+RAMBLEWOOD MHP WWTP,TX0033197,CEDAREDGE,CO,6,2022,2022-09-25T13:01:07.891-0500,Other,1.033,0,,Other Management Practice,,,,1.033,Class B,[6515],other_system
+RIVERSIDE WWTF,TX0071145,COLLEGE STATION,TX,6,2022,2022-09-25T13:18:41.824-0500,Other,2.908,0,,Other Management Practice,,,,2.908,Class B,[6515],other_system
+GLEN OAKS MHP WWTF,TX0085456,ORLANDO,FL,6,2022,2022-09-25T14:17:40.930-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+SUNSET MHP 2 WWTP,TX0090735,HOUSTON,TX,6,2022,2022-09-26T11:23:12.433-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,1.51,0,,Other Management Practice,,,,1.51,Not Applicable,[6515],other_system
+BEACON ESTATES WWTP,TX0132454,BROOKSHIRE,TX,6,2022,2022-09-27T05:56:56.638-0500,Other,2.27,0,,Other Management Practice,,,,2.27,Class B,[6515],other_system
+KINGMONT MHP WWTP,TX0124257,HOUSTON,TX,6,2022,2022-09-26T11:26:27.911-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,6.05,0,,Other Management Practice,,,,6.05,Not Applicable,[6515],other_system
+STAFFORD MHP WWTP,TX0117358,HOUSTON,TX,6,2022,2022-09-26T11:14:02.689-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,6.8,0,,Other Management Practice,,,,6.8,Not Applicable,[6515],other_system
+BLOOMINGTON ISD,TX0127353,BLOOMINGTON,TX,6,2022,2022-09-26T12:18:35.144-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,28.66,0,,Other Management Practice,,,,28.66,Not Applicable,"[8211, 8211]",other_system
+CITY OF RICHMOND SWTP,TX0137600,RICHMOND,TX,6,2022,2022-09-27T14:10:57.840-0500,Other,139.323,0,,Land Application,139.0,,,,Class B,"[4941, 4941]",other_system
+INLINE UTILITIES WWTP,TX0117633,SPRING,TX,6,2022,2022-09-26T15:24:30.606-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,16.63,0,,Other Management Practice,,,,16.63,Class B,[6515],other_system
+HOOKS MOBILE HOME PARK WWTP,TX0078883,HOUSTON,TX,6,2022,2022-09-26T15:30:30.124-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,2.27,0,,Other Management Practice,,,,2.27,Class B,[6515],other_system
+PINEDALE MHP WWTP,TX0094552,PINEHURTS,TX,6,2022,2022-09-26T15:35:55.276-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,3.02,0,,Other Management Practice,,,,3.02,Class B,[6515],other_system
+TIMBERCREST VILLAGE WWTP,TX0119628,VANCOUVE,BC,6,2022,2022-09-26T15:43:31.594-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,30.99,0,,Other Management Practice,,,,30.99,Class B,[6515],other_system
+WESTFIELD MHP WWTP,TX0090492,SAN JOSE,CA,6,2022,2022-09-26T16:04:39.192-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,4.54,0,,Other Management Practice,,,,4.54,Class B,[6515],other_system
+NORTHWEST PINES WWTP,TX0083429,DENVER,CO,6,2022,2022-09-26T16:12:09.903-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,11.31,0,,Other Management Practice,,,,11.31,Class B,"[6515, 6515]",other_system
+BAYOU CLUB WWTP,TX0083933,SPRING,TX,6,2022,2022-09-26T16:14:57.881-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.492,0,,Other Management Practice,,,,0.492,Class B,[8641],other_system
+BRAIRWOOD RETREAT WWTP,TX0091448,ARGYLE,TX,6,2022,2022-09-30T13:53:16.115-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7033],other_system
+NEEDVILLE ISD WWTP,TX0077470,NEEDVILLE,TX,6,2022,2022-09-30T17:26:26.110-0500,Other,4.54,0,,Other Management Practice,,,,4.54,Class B,"[8211, 8211]",other_system
+VAM USA,TX0129917,HOUSTON,TX,6,2022,2022-09-27T08:38:36.264-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Class B,[3498],other_system
+ALDINE ISD ANNE LOUISE EDUCATIONAL COMPLEX,TX0115797,HOUSTON,TX,6,2022,2022-09-27T09:36:09.880-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+ROY C. HESTER WWTP,TX0064963,BIG SPRING,TX,6,2022,2022-09-27T09:44:52.671-0500,Other,310.0,0,,Other Management Practice,,,,307.93,Not Applicable,[4941],other_system
+SCHLUMBERGER ROSHARON COMPLETIONS,TX0078646,ROSHARON,TX,6,2022,2022-09-29T09:45:49.902-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[2892, 5084, 3533, 3533, 3533, 5084]",other_system
+MEXIA STATE SUPPORTED LIVING CENTER WWTP,TX0030775,MEXIA,TX,6,2022,2022-09-28T11:20:13.615-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,"[8063, 8063]",other_system
+SAN JACINTO ELEMENTARY WWTP,TX0083208,CONROE,TX,6,2022,2022-09-27T10:43:07.988-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[8211],other_system
+COTTON BAYOU PARK,TX0085961,LEAGUE CITY,TX,6,2022,2022-09-27T10:51:02.159-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.9003416,0,,Other Management Practice,,,,0.9003416,Not Applicable,[6515],other_system
+JOHNSON RANCH WWTF,TX0133825,BOERNE,TX,6,2022,2022-09-27T11:12:55.359-0500,Other,124.85,0,,Other Management Practice,,,,124.85,Not Applicable,[6531],other_system
+SPLENDORA HIGH SCHOOL WWTF,TX0117463,SPLENDORA,TX,6,2022,2022-09-27T11:29:48.707-0500,Other,0.76,0,,Other Management Practice,,,,0.76,Class B,"[8211, 8211]",other_system
+ROLLING RIDGE WWTF,TX0077526,COLLEGE STATION,TX,6,2022,2022-09-29T13:38:27.568-0500,Other,4.939,0,,Land Application,4.939,,,,Class B,[6515],other_system
+FOREST GLEN WWTF,TX0071765,HUNTSVILLE,TX,6,2022,2022-09-27T11:59:39.721-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7032],other_system
+LOMETA REGIONAL WWTP,TX0124389,AUSTIN,TX,6,2022,2022-09-27T13:10:12.941-0500,Other,9.15,0,,Other Management Practice,,,,9.15,Not Applicable,[4941],other_system
+FANNETT CAMPUS WWTP,TX0079138,HAMSHIRE,TX,6,2022,2022-09-27T14:21:19.882-0500,Other,3.78,0,,Other Management Practice,,,,3.78,Not Applicable,"[8211, 8211]",other_system
+WEIMAN MHP WWTF,TX0085871,HUNTINGTON BEACH,CA,6,2022,2022-09-27T15:44:50.049-0500,Other,2.95262454,0,,Other Management Practice,,,,2.95262454,Not Applicable,[6515],other_system
+GE PACKAGED POWER JPORT,TX0101656,HOUSTON,TX,6,2022,2022-09-29T11:34:37.397-0500,Other,2.36,0,,Other Management Practice,,,,2.36,Not Applicable,"[3511, 3511, 7699, 3511, 7699, 3511, 7699]",other_system
+ANGLE ACRES WWTP,TX0088366,CYPRESS,TX,6,2022,2022-09-28T14:52:42.528-0500,Other,1.51,0,,Other Management Practice,,,,1.51,Class B,[6515],other_system
+DEER TRAIL WWTP,TX0099171,SPRING,TX,6,2022,2022-09-30T11:19:12.479-0500,Other,6.05,0,,Other Management Practice,,,,6.05,Class B,[6515],other_system
+WILD PEACH ELEMENTARY WWTF,TX0079235,WEST COLUMBIA,TX,6,2022,2022-10-07T08:44:32.300-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+MSEC WWTP 2,TX0136191,MONTGOMERY,TX,6,2022,2022-09-29T09:47:15.363-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,2.27,0,,Other Management Practice,,,,2.27,Not Applicable,[8211],other_system
+LOCHINVAR GOLF CLUB WWTP,TX0131555,HOUSTON,TX,6,2022,2022-09-28T08:17:17.462-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Class B,"[7992, 7999]",other_system
+PADRE ISLAND NATIONAL SEASHORE WWTF,TX0122572,CORPUS CHRISTI,TX,6,2022,2022-09-28T08:23:59.052-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[7033, 7033, 8999, 9512, 7033]",other_system
+YMCA CAMP CULLEN WWTP,TX0059579,HOUSTON,TX,6,2022,2022-09-28T09:14:14.838-0500,Other,3.78,0,,Other Management Practice,,,,3.78,Not Applicable,[7032],other_system
+MELROSE MHP WWTP,TX0084671,TORRANCE,CA,6,2022,2022-09-30T11:23:16.760-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+PIN OAK MHP WWTF,TX0119610,IRVINE,CA,6,2022,2022-09-30T11:33:54.380-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+ALDINE OAKS MHC WWTP,TX0124265,IRVINE,CA,6,2022,2022-09-30T11:39:34.505-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+LAKEVIEW METHODIST CONFERENCE CENTER WWTP,TX0066150,PALESTINE,TX,6,2022,2022-09-28T10:55:07.476-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,[7032],other_system
+EAST CENTRAL HIGH SCHOOL WWTP,TX0074799,SAN ANTONIO,TX,6,2022,2022-09-28T10:58:43.192-0500,Other,1.9,0,,Other Management Practice,,,,1.9,Class B,"[8211, 8211, 8211, 8211]",other_system
+MISSOURI CITY REGIONAL SURFACE WWTP,TX0133159,MISSOURI CITY,TX,6,2022,2022-09-28T10:59:49.604-0500,Other,688.611541,0,,Other Management Practice,,,,688.611541,Class B,[4941],other_system
+TEXAS A&M UNIVERSITY AT GALVESTON ,TX0063231,GALVESTON,TX,6,2022,2022-09-29T16:15:30.109-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,8.31,0,,Other Management Practice,,,,8.31,Class B,"[8221, 8221, 8221, 273, 273]",other_system
+CYPRESS LAKES WWTP,TX0102024,CLEVELAND,TX,6,2022,2022-09-28T13:52:40.326-0500,Other,3.02,0,,Other Management Practice,,,,3.02,Class B,[6515],other_system
+KATY ISD MAYDE CREEK WWTP,TX0079201,KATY,TX,6,2022,2022-09-28T13:52:16.629-0500,Other,2.27,0,,Other Management Practice,,,,2.27,Not Applicable,"[8211, 8211]",other_system
+SRALLA MHP WWTP,TX0126381,MAGNOLIA,TX,6,2022,2022-09-28T14:24:35.912-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+CEDAR CREEK FOREST MHP,TX0122963,HOUSTON,TX,6,2022,2022-09-28T14:48:42.402-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,6.24,0,,Other Management Practice,,,,6.24,Class B,[6515],other_system
+TDCJ CLEMENS UNIT  WWTP,TX0031569,HUNTSVILLE,TX,6,2022,2022-09-29T09:29:21.187-0500,Other,3.3,0,,Other Management Practice,,,,3.3,Class B,"[9223, 9223, 9223, 9223, 213]",other_system
+CAROLINA CREEK CHRISTIAN CAMPS,TX0127370,HOUSTON,TX,6,2022,2022-09-29T11:12:35.573-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[8661],other_system
+GBW RAILCAR SERVICES HOCKLEY,TX0090841,HOCKLEY,TX,6,2022,2022-09-30T11:28:19.590-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[4011, 4789, 4789, 4789, 4011]",other_system
+FORT WORTH BOAT CLUB WWTP,TX0067504,FORT WORTH,TX,6,2022,2022-09-30T13:50:57.285-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7999],other_system
+HIDDEN COVE PARK WWTP,TX0093696,SOUTHLAKE,TX,6,2022,2022-09-28T17:09:55.157-0500,Other,26.9,0,,Other Management Practice,,,,26.9,Not Applicable,[7033],other_system
+CITY OF HENRIETTA WTP,TX0127817,HENRIETTA,TX,6,2022,2022-09-29T15:51:22.669-0500,Other,8.41,0,,Other Management Practice,,,,8.41,Not Applicable,[4941],other_system
+GREENS BAYOU FABRICATION YARD,TX0100935,CYRPESS,TX,6,2022,2022-09-28T22:24:03.912-0500,Other,0.76,0,,Other Management Practice,,,,0.76,Class B,"[3731, 3498, 3731, 3498, 3498, 3498, 3731, 3731, 3731]",other_system
+RIVER HILLS OWNERS ASSOCIATION,TX0033154,DENISON,TX,6,2022,2022-10-07T13:16:22.109-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+SPRING OAKS MHP WWTP,TX0092088,NAVASOTA,TX,6,2022,2022-09-29T16:57:22.672-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,1.27,0,,Other Management Practice,,,,1.27,Class B,[6515],other_system
+ASTRO WWTP,TX0094790,AUSTIN,TX,6,2022,2022-09-29T09:01:30.354-0500,Other,2.27,0,,Other Management Practice,,,,2.27,Not Applicable,[6515],other_system
+CHRISTIAN TABERNACLE WWTF,TX0126594,HOUSTON,TX,6,2022,2022-09-29T16:51:15.288-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,[8661],other_system
+ROSEMEADOWS III - WWTP,TX0122459,AUSTIN,TX,6,2022,2022-09-29T15:14:03.522-0500,Other,16.63,0,,Other Management Practice,,,,16.63,Not Applicable,[6515],other_system
+TDCJ ELLIS UNIT WWTP,TX0031607,HUNTSVILLE,TX,6,2022,2022-09-29T10:59:48.410-0500,Other,27.57,0,,Other Management Practice,,,,27.57,Class B,"[213, 213, 9223, 9223, 213, 252, 9223]",other_system
+APPLE SPRINGS ISD WETLANDS WWT,TX0118966,APPLE SPRINGS,TX,6,2022,2022-09-29T11:05:24.253-0500,Other,0.0,0,,Other Management Practice,,,,26.8,Not Applicable,[8211],other_system
+MORTON ROAD WWTF,TX0119121,HOUSTON,TX,6,2022,2022-09-30T13:10:56.735-0500,Other,12.84,0,,Other Management Practice,,,,12.85,Class B,[6515],other_system
+TDCJ ESTELLE UNIT ,TX0092789,HUNTSVILLE,TX,6,2022,2022-09-29T11:17:27.634-0500,Other,81.66,0,,Other Management Practice,,,,163.32,Class B,"[9223, 9223]",other_system
+MOSCOW WWTP,TX0075701,MOSCOW,TX,6,2022,2022-09-29T11:24:50.591-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+LEE COUNTY WWTP,TX0132659,COUPLAND,TX,6,2022,2022-09-30T09:59:46.528-0500,Other,13.577,0,,Other Management Practice,,,,13.577,Not Applicable,[4941],other_system
+TDCJ JESTER 3 UNIT WWTP,TX0089036,HUNTSVILLE,TX,6,2022,2022-09-29T11:41:07.970-0500,Other,20.49,0,,Other Management Practice,,,,20.49,Class B,"[9223, 9223]",other_system
+TDCJ LUTHER  UNIT WWTP,TX0089028,HUNTSVILLE,TX,6,2022,2022-09-29T12:21:31.988-0500,Other,16.1,0,,Other Management Practice,,,,16.1,Class B,"[9223, 9223]",other_system
+REDWOOD WWTP,TX0096679,AUSTIN,TX,6,2022,2022-09-29T12:28:54.194-0500,Other,7.56,0,,Other Management Practice,,,,7.56,Not Applicable,[6515],other_system
+TERRELL UNIT WWTP,TX0115169,HUNTSVILLE,TX,6,2022,2022-09-29T12:47:38.588-0500,Other,7.25,0,,Other Management Practice,,,,7.25,Class B,"[9223, 9223]",other_system
+TDJC COFFIELD UNIT,TX0031577,HUNTSVILLE,TX,6,2022,2022-09-29T13:30:02.028-0500,Other,263.59,0,,Other Management Practice,,,,263.59,Class B,"[213, 9223, 213, 9223]",other_system
+TDCJ POWLEDGE WWTP,TX0089044,HUNSTVILLE,TX,6,2022,2022-09-29T13:44:47.359-0500,Other,23.54,0,,Other Management Practice,,,,23.54,Class B,"[9223, 9223]",other_system
+NORTHLAKE VILLAGE MHP WWTP,TX0120022,NORTHLAKE,TX,6,2022,2022-09-29T15:42:46.210-0500,Other,1.40263636,0,,Other Management Practice,,,,1.40263636,Not Applicable,[6515],other_system
+SIGMAPRO WWTP,TX0138754,FORT WORTH,TX,6,2022,2022-09-29T16:03:23.063-0500,Other,0.15163636,0,,Other Management Practice,,,,0.15163636,Not Applicable,[6519],other_system
+THE PARK,TX0136590,SUGARLAND,TX,6,2022,2022-09-29T18:02:35.949-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+HAPPY HILL FARM CHILDRENS HOME WWTP,TX0138827,GRANBURY,TX,6,2022,2022-09-29T20:23:32.572-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.824,0,,Other Management Practice,,,,0.824,Not Applicable,"[4941, 8361]",other_system
+CHAPMAN MHP WWTP,TX0099597,CROSBY,TX,6,2022,2022-09-30T11:43:43.005-0500,Other,1.48,0,,Other Management Practice,,,,1.48,Not Applicable,[6515],other_system
+MONUMENT INN WWTP,TX0113760,LA PORTE,TX,6,2022,2022-10-03T11:01:42.709-0500,Other,0.49,0,,Other Management Practice,,,,0.49,Class B,[5812],other_system
+ROSEWOOD MHP WWTP,TX0094986,HUMBLE,TX,6,2022,2022-09-30T11:29:40.744-0500,Other,8.35,0,,Other Management Practice,,,,8.35,Class B,[6515],other_system
+WOODGATE MOBILE HOME VILLAGE,TX0088102,GLENDALE,CO,6,2022,2022-09-29T21:30:09.018-0500,Other,2.12,0,,Land Application,2.12,,,,Class B,[6515],other_system
+WESTMONT MHP WWTP,TX0093505,HOUSTON,TX,6,2022,2022-09-29T21:41:37.583-0500,Other,12.502,0,,Land Application,12.502,,,,Class B,[6515],other_system
+CARBY ROAD MHP WWTP,TX0123579,HOUSTON,TX,6,2022,2022-09-29T21:50:30.129-0500,Other,3.346,0,,Land Application,3.346,,,,Class B,[6515],other_system
+RIVER OAKS MHP WWTP,TX0092711,HOUSTON,TX,6,2022,2022-09-29T22:24:12.982-0500,Other,3.066,0,,Land Application,3.066,,,,Class B,"[6515, 6515]",other_system
+SUNDOWN MHP WWTF,TX0087785,HOUSTON,TX,6,2022,2022-09-29T22:37:44.836-0500,Other,2.531,0,,Land Application,2.53,,,,Class B,"[6515, 6515]",other_system
+LONE WILLOW WWTF,TX0095508,WILLIS,TX,6,2022,2022-09-29T22:41:52.368-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[6515],other_system
+HARRIS COUNTY MUD 24 WWTP ,TX0113123,BELLAIRE,TX,6,2022,2022-09-30T10:20:00.338-0500,Other,64.22,0,,Other Management Practice,,,,64.22,Class B,"[4941, 4941]",other_system
+LEON ISD WWTP,TX0135127,JEWETT,TX,6,2022,2022-09-30T10:38:53.346-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,"[8211, 8211]",other_system
+YELLOW ROSE TRAVEL PLAZA WTP,TX0135992,PASADENA,TX,6,2022,2022-09-30T10:41:27.763-0500,Other,0.0,0,,Other Management Practice,,,,,Class B,[4941],other_system
+OLD EGYPT WWTF,TX0120073,AUSTIN,TX,6,2022,2022-09-30T12:24:54.320-0500,Other,134.72,0,,Other Management Practice,,,,134.7,Not Applicable,[6515],other_system
+EAGLE CREEK RANCH WTP,TX0128007,AUSTIN,TX,6,2022,2022-09-30T13:31:49.617-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+GOSPEL FOR ASIA CAMPUS MINISTRY WWTP,TX0134708,WILLS POINT,TX,6,2022,2022-09-30T15:00:59.673-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[8661],other_system
+WARREN ISD-HIGH SCHOOL WWTF,TX0076015,WARREN,TX,6,2022,2022-09-30T15:28:05.546-0500,Other,1.69,0,,Other Management Practice,,,,1.69,Class B,"[8211, 8211]",other_system
+UPPER LEON RIVER MWD WWTP,TX0122203,COMANCHE,TX,6,2022,2022-09-30T15:17:49.271-0500,Other,206.145,0,,Other Management Practice,,,,206.145,Not Applicable,[4941],other_system
+D&L MHP WWTP,TX0133001,HOUSTON,TX,6,2022,2022-09-30T16:19:12.896-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[6515, 6515]",other_system
+WEST HARDIN COUNTY CISD WWTF,TX0030813,SARATOGA,TX,6,2022,2022-09-30T17:57:58.470-0500,Other,0.25,0,,Other Management Practice,,,,0.25,Not Applicable,"[8211, 8211]",other_system
+GALVESTON BAY RV PARK WWTF,TX0124761,DICKINSON,TX,6,2022,2022-10-06T02:23:22.601-0500,Other,3.71,0,,"Land Application, Other Management Practice",2.95,,,0.76,Class B,[7033],other_system
+POPE'S LANDING WWTF,TX0103365,ALBA,TX,6,2022,2022-10-01T14:47:14.946-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,[7033],other_system
+NORTH TEXAS STATE HOSPITAL VERNON CAMPUS SOUTH ,TX0030732,VERNON,TX,6,2022,2022-10-03T15:11:45.049-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[9223, 9223]",other_system
+RUTERSVILLE WTP,TX0132772,LA GRANGE,TX,6,2022,2022-10-07T08:10:59.417-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+FAYETTE WSC WATER WELL 4,TX0126861,LA GRANGE,TX,6,2022,2022-10-07T08:12:25.014-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[4941],other_system
+ERA WWTP,TX0130117,ERA,TX,6,2022,2022-10-07T09:11:51.171-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+GREEN ROAD MH WWTF,TX0033189,HOUSTON,TX,6,2022,2022-10-20T22:48:24.287-0500,Other,3.33,0,,Other Management Practice,,,,3.33,Class B,[6515],other_system
+MHC TT LAKE WHITNEY PRESERVE,TX0097691,CHICAGO,IL,6,2022,2022-10-19T11:03:58.238-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[7033],other_system
+WILLIE J HARGROVE HIGH SCHOOL WWTP,TX0075761,HUFFMAN,TX,6,2022,2022-11-20T23:14:11.456-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8211, 8211]",other_system
+D BAR B WWTP,TX0032212,DALLAS,TX,6,2022,2022-12-21T16:37:54.305-0500,Other,0.34118182,0,,Other Management Practice,,,,0.34118182,Not Applicable,[6515],other_system
+EAGLE MOUNTAIN RV PARK WWTP,TX0097853,FORT WORTH,TX,6,2022,2022-12-21T17:01:22.266-0500,Other,0.68236364,0,,Other Management Practice,,,,0.68236364,Not Applicable,[7033],other_system
+THE PROCTER AND GAMBLE PAPER PRODUCTS CO,MOL044121,JACKSON,MO,7,2022,2023-01-26T09:01:00.042-0500,Other,6000.0,0,,Other Management Practice,,,,6000.0,Not Applicable,"[1629, 2621, 2621, 1629, 1629, 2676, 2674, 2676, 1629, 1629, 2676]",other_system
+"HERINGTON, CITY OF",KSL022811,HERINGTON,KS,7,2022,2023-01-11T11:02:58.760-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,47.0,0,,Land Application,47.0,,,,Class B,[4581],other_system
+PEARLAND ACRES MHP WWTF,TX0135283,WSTLAKE VILLAGE,CA,6,2022,2023-01-19T16:24:33.517-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[6515, 6515]",other_system
+NEW DANVILLE COMMUNITY WWTP,TX0132012,WILLIS,TX,6,2022,2023-03-17T13:22:09.006-0500,Other,0.0,0,,Other Management Practice,,,,,Not Applicable,[8361],other_system
+HERITAGE VILLAGE COMPANY,CTL101133,SOUTHBURY,CT,1,2022,2023-01-19T15:14:54.509-0500,Other,77.42,0,,Other Management Practice,,,,77.42,Not Applicable,[6514],other_system
+ROCKDALE COUNTY (BIG HAYNES CREEK WTP),GAL640083,CONYERS,GA,4,2022,2023-01-25T11:22:07.756-0500,Other,31.708,0,,Other Management Practice,,,,31.708,Not Applicable,[4941],other_system
+ROCKINGHAM COUNTY HOME,NHL100609,BRENTWOOD,NH,1,2022,2023-02-14T12:24:08.520-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,0.0,0,,Other Management Practice,,,,,Not Applicable,"[8051, 9223, 8051, 9223]",other_system
+OLDE ATLANTA CLUB WPCP,GAL030980,SUWANEE,GA,4,2022,2023-01-30T11:12:06.967-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,31.48,0,,Other Management Practice,,,,31.48,Class B,[7997],other_system
+US DOE/SAVANNAH RIVER SITE,SCL000175,AIKEN COUNTY,SC,4,2022,2023-02-14T13:59:53.664-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,14.8,0,,Other Management Practice,,,,86.25,Not Applicable,"[2819, 2819, 9611, 2819, 2819, 2819, 2819]",other_system
+SWIFT BEEF COMPANY,UTL000281,HYRUM,UT,8,2022,2023-02-08T13:05:58.709-0500,Other,1467.0,0,,Land Application,1467.0,,,,Class A,"[2011, 2011]",other_system
+ATK LAUNCH SYSTEMS INC,UTL024805,BRIGHAM CITY,UT,8,2022,2023-02-08T13:36:33.616-0500,Other,68.22,0,,Other Management Practice,,,,68.22,Not Applicable,"[7549, 3714, 3769, 3714, 3761, 3769, 3764, 7549, 3761, 2899, 2899, 3761, 3764, 3714, 2819, 3761]",other_system
+OAKELY CITY,UTL020061,OAKLEY,UT,8,2022,2023-02-18T11:41:41.094-0500,Other,21.64,0,,Other Management Practice,,,,21.64,Not Applicable,"[2899, 2899]",other_system
+"KENNECOTT UTAH COPPER, LLC",UTL000051,SALT LAKE CITY,UT,8,2022,2023-02-21T14:01:58.048-0500,Other,0.93,0,,Other Management Practice,,,,0.93,Not Applicable,"[3331, 3331, 1021, 3331, 1021]",other_system
+LYSTEK INTERNATIONAL,CAL000001,FAIRFIELD,CA,9,2022,2023-02-21T11:44:12.082-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,10635.0,0,,Land Application,10635.0,,,,Class A,"[7538, 7538, 4212, 4212, 7513, 7513, 8211, 3999, 4141, 7538, 7538, 8211, 4213, 4213, 4231, 3541, 3545, 3545]",other_system
+BLUE SKY RANCH AND RESORT,UTL025763,WANSHIP,UT,8,2022,2023-04-01T12:56:08.283-0500,A Class I Sludge Management Facility as defined in 40 CFR 503.9,54.72,0,,Land Application,54.72,,,,Class B,"[7011, 7011]",other_system
