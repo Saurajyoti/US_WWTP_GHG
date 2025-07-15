@@ -1377,7 +1377,7 @@ for i in range(len(TT_characteristics_reversed.index)):
                        edgecolor='k',
                        zorder=3)
 
-#%% per volume uncertainty without breakdown
+#%% per volume uncertainty with breakdown
 
 fig, ax = plt.subplots(figsize=(32, 7))
 
@@ -1644,7 +1644,7 @@ def get_energy_uncertainty(quantile):
                                          'total_electricity_95_50': TT_elec_uncertainty_renamed[TT].quantile(0.95) - TT_elec_uncertainty_renamed[TT].quantile(0.5),
                                          'chemical_electricity': TT_elec_chemical_uncertainty_renamed[TT].quantile(quantile),
                                          'total_NG': TT_NG_uncertainty_renamed[TT].quantile(quantile),
-                                         'total_NG_50_5': TT_NG_uncertainty_renamed[TT].quantile(0.5) - TT_NG_uncertainty_renamed[TT].quantile(0.5),
+                                         'total_NG_50_5': TT_NG_uncertainty_renamed[TT].quantile(0.5) - TT_NG_uncertainty_renamed[TT].quantile(0.05),
                                          'total_NG_95_50': TT_NG_uncertainty_renamed[TT].quantile(0.95) - TT_NG_uncertainty_renamed[TT].quantile(0.5),
                                          'chemical_NG': TT_NG_chemical_uncertainty_renamed[TT].quantile(quantile)}
     
@@ -1838,7 +1838,7 @@ annual_to_plot = annual_to_plot.loc[label_order]
 
 annual_result = annual_to_plot.copy()
 
-#%% annual uncertainty without breakdown
+#%% annual uncertainty with breakdown
 
 fig, ax = plt.subplots(figsize=(32, 7))
 
