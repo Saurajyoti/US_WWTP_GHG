@@ -1341,10 +1341,12 @@ plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
 plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0.15, len(label_order)+0.85])
@@ -1386,10 +1388,12 @@ plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
 plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0.15, len(label_order)+0.85])
@@ -1555,10 +1559,12 @@ plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
 plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 fig, ax = plt.subplots(figsize=(30, 3.63))
 
@@ -1664,10 +1670,13 @@ plt.rcParams['axes.linewidth'] = 1.5
 plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
+plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 width = 0.4
 
@@ -1722,7 +1731,7 @@ ax.bar(index+0.5*width,
        bottom=(energy_uncertainty_50_to_plot.loc['total_NG'] - energy_uncertainty_50_to_plot.loc['chemical_NG'])/MG_2_m3)
 
 ax.set_ylabel('$\mathbf{Upstream\ energy}$\n[MJ·${m^{-3}}$]', fontname='Arial',
-              fontsize=28, labelpad=0, linespacing=0.8)
+              fontsize=28, labelpad=3, linespacing=0.8)
 
 mathtext.FontConstantsBase.sup1 = 0.35
 
@@ -1770,10 +1779,13 @@ plt.rcParams['axes.linewidth'] = 1.5
 plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
+plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 width = 0.8
 
@@ -1796,7 +1808,7 @@ ax.bar(index, TT_flow_to_plot[::-1]*MG_2_m3/1000000000*365, width=width,
 plt.xticks(index, label_order[::-1], rotation=90, fontname='Arial')
 
 ax.set_ylabel('$\mathbf{Flow}$\n[billion ${m^{3}}$·${year^{-1}}$]',
-              fontname='Arial', fontsize=28, linespacing=0.8)
+              fontname='Arial', fontsize=28, labelpad=1, linespacing=0.8)
 
 mathtext.FontConstantsBase.sup1 = 0.35
 
@@ -1811,7 +1823,7 @@ ax_right.tick_params(direction='inout', length=15, width=1.5,
 
 ax_right.scatter(index, TT_num_to_plot[::-1]/1000, s=250, color='w', edgecolor='k', linewidth=1.5)
 
-ax_right.set_ylabel('$\mathbf{Count}$ [k]', fontname='Arial', fontsize=28, labelpad=13)
+ax_right.set_ylabel('$\mathbf{Count}$ [k]', fontname='Arial', fontsize=28, labelpad=17)
 
 #%% annual plot - visualization - data preparation
 
@@ -1847,10 +1859,12 @@ plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
 plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0.15, len(label_order)+0.85])
@@ -1994,6 +2008,18 @@ assert (WWTP_visual.LONGITUDE == None).sum() == 0
 def add_TT_marker(dataset, option, TT, color, edgecolor, title):
     fig, ax = plt.subplots(figsize=(30, 30))
     
+    plt.rcParams['axes.linewidth'] = 1.5
+    plt.rcParams['hatch.linewidth'] = 1.5
+    plt.rcParams['xtick.labelsize'] = 25
+    plt.rcParams['ytick.labelsize'] = 25
+    plt.rcParams['font.sans-serif'] = 'Arial'
+    plt.rcParams['pdf.fonttype'] = 42
+    plt.rcParams['ps.fonttype'] = 42
+
+    plt.rcParams.update({'mathtext.fontset':'custom'})
+    plt.rcParams.update({'mathtext.default':'regular'})
+    plt.rcParams.update({'mathtext.bf':'Arial: bold'})
+    
     US[~US['STUSPS'].isin(non_continental)].plot(ax=ax, color='white',
                                                  edgecolor='black', linewidth=3)
     
@@ -2129,10 +2155,13 @@ plt.rcParams['axes.linewidth'] = 1.5
 plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
+plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0, 1])
@@ -2195,10 +2224,13 @@ plt.rcParams['axes.linewidth'] = 1.5
 plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
+plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0, 1])
@@ -2253,10 +2285,13 @@ plt.rcParams['axes.linewidth'] = 1.5
 plt.rcParams['hatch.linewidth'] = 1.5
 plt.rcParams['xtick.labelsize'] = 25
 plt.rcParams['ytick.labelsize'] = 25
+plt.rcParams['font.sans-serif'] = 'Arial'
+plt.rcParams['pdf.fonttype'] = 42
+plt.rcParams['ps.fonttype'] = 42
 
-plt.rcParams.update({'mathtext.fontset': 'custom'})
-plt.rcParams.update({'mathtext.default': 'regular'})
-plt.rcParams.update({'mathtext.bf': 'Arial: bold'})
+plt.rcParams.update({'mathtext.fontset':'custom'})
+plt.rcParams.update({'mathtext.default':'regular'})
+plt.rcParams.update({'mathtext.bf':'Arial: bold'})
 
 ax = plt.gca()
 ax.set_xlim([0, 1.4])
